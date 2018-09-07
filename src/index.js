@@ -1,5 +1,5 @@
 import printMe from './print.js';
-import '../css/style.css';
+import '../static/css/style.css';
 
 function component() {
     let element = document.createElement('div');
